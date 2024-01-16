@@ -17,7 +17,7 @@ This is a simple Fizz-Buzz server implemented in Python using Flask. The server 
 
 - cd Fizz-Buzz-Server
 **Create and activate a virtual environment (optional but recommended):**
-python -m venv venv
+   python -m venv venv
 **Activate virtual environment:**
 - On Bash : source venv/bin/activate  
 - On Windows: .\venv\Scripts\activate
@@ -52,5 +52,4 @@ requirements.txt: List of project dependencies.
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/Fizz-Buzz-Server.git
+  https://github.com/SunkariApoorva/Roche_Hackthon_Fizz_buzz_challenge.git
