@@ -32,10 +32,12 @@ This is a simple Fizz-Buzz server implemented in Python using Flask. The server 
 - python fizzbuzz_server.py
 
 The server will start on http://127.0.0.1:5000/.
+Output can we visualised on http://127.0.0.1:5000/fizzbuzz
 
 Open your web browser or use a tool like curl or Postman to interact with the server.
 
 Fizz-Buzz Endpoint: http://127.0.0.1:5000/fizzbuzz?int1=3&int2=5&limit=15&str1=fizz&str2=buzz
+
 Statistics Endpoint: http://127.0.0.1:5000/statistics
 
 **Running Tests**
